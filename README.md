@@ -1,2 +1,5 @@
 # hello_world
-Just a repository
+
+Hello there,
+
+I love programming and i want to learn more about Python, Java and C languages.
